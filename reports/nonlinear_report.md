@@ -22,6 +22,10 @@ Pros | Cons
 --- | --- 
 Good estimate for initial approximations<br/><br/>Converge **independent** of the initial approximations | **Linear** convergence rate |
 
+## TODO: add Homotopy method
+
+## TODO: add continuation method
+
 
 ## Solvers
 
@@ -35,3 +39,6 @@ Solver | Method(s)
 [IMSL `C` Numerical Library](http://docs.roguewave.com/imsl/c/8.6/pdf/CNL86FC.pdf) | Combination of the **Broyden method** and **Steepest Descent method** known as *Powell hybrid algorithm*
 [NAG library](https://www.nag.com/numeric/cl/nagdoc_latest/html/c05/c05qbc.html) | Combination of the **Broyden method** and **Steepest Descent method** known as *Powell hybrid algorithm* 
 [Matlab `fsolve`](https://www.mathworks.com/help/optim/ug/equation-solving-algorithms.html) | Levenberg-Marquardt method<br/><br/>Trust-region method<br/><br/> Combination of the **Broyden method** and **Steepest Descent method** known as *Powell hybrid algorithm* 
+
+
+## TODO : add list of references
