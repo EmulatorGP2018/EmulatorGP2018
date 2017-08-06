@@ -36,7 +36,7 @@ Gets imaginary roots | Slower than Newton method<br/><br/>It is much harder to d
 
 ## Open methods
 
-(Newton- raphson, Secant, Inverse quadratic, FIXED POINT ITERATION) valid for single variable function
+(Newton- raphson, Secant, Inverse quadratic, FIXED POINT ITERATION) 
 
 ## Brent method
 
