@@ -22,6 +22,21 @@ Pros | Cons
 --- | --- 
 Good estimate for initial approximations<br/><br/>Usually converge even for poor initial approximations | **Linear** convergence rate 
 
+## Inverse quadratic interpolation
+
+Pros | Cons 
+--- | --- 
+converge fast to the root once they get close | performance is often quite poor if you do not start very close to the actual root <br/><br/>rarely used as a stand-alone algorithm
+
+## Muller method
+
+Pros | Cons 
+--- | --- 
+Gets imaginary roots | Slower than Newton method<br/><br/>It is much harder to determine the roots of a polynomial of degree 3 or higher
+
+
+
+
 
 ## Solvers
 
