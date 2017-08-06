@@ -34,8 +34,15 @@ Pros | Cons
 --- | --- 
 Gets imaginary roots | Slower than Newton method<br/><br/>It is much harder to determine the roots of a polynomial of degree 3 or higher
 
+## Open methods
 
+(Newton- raphson, Secant, Inverse quadratic, FIXED POINT ITERATION) valid for single variable function
 
+## Brent method
+
+Pros | Cons 
+--- | --- 
+Faster than the bracketing methods and doesn't diverge | One side of your interval will converge quickly to a root, but the other side will remain rarely moved, because the Secant/Inverse Quadratic steps will keep having their iterations on the same side of the root. Brent's method eventually brings in the other side by slow Bisection.
 
 
 ## Solvers
