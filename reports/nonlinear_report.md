@@ -26,7 +26,7 @@ Good estimate for initial approximations<br/><br/>Usually converge even for poor
 
 Pros | Cons 
 --- | --- 
-converge fast to the root once they get close | performance is often quite poor if you do not start very close to the actual root <br/><br/>rarely used as a stand-alone algorithm
+converge fast to the root once they get close | Performance is often quite poor if you do not start very close to the actual root <br/><br/>Rarely used as a stand-alone algorithm
 
 ## Muller method
 
